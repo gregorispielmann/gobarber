@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bf25a413dbfe81ddf08c5a796478ef6c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bfa1555447bdc3a8810614cd4c2f54a8/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e9973c77848dec67c9c491517ff2d2dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/fee61b9b45367df121fb23bf7e560c59/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7e1ba1d96a3165d8775769c469539b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/274d7fc04735ec6ea2168ef9f27f26f4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/99c1379dac05d2ade24d52b3989dc08b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/6f1bfe04c69d8e773327d1436fa16553/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/76fea52afb284ac652443259969b720a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/26dc60ebf4a4a550bf6a6c697f59215e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7166cff7c27dac8f433ff22f4ee1b08/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/764e1cce643f3011ecff67f97b23fefa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3f744db060150993a68cb01eea62ea85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/334e7b8195a27e3b5cb93f3d218b28d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/dfd62f6b38594ad010195cd8929a5a13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/c8329c5d3acd86249fc23734c955c7ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a9d0b2d7cd3c2cdf96a0f0257048b078/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/58ddd353ab968381623314aaef2d1acf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b87491fdcf4ec87ddb03f5d90a0c0e81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7d6ae83b731086ffcfaa2acafd073480/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/61a52a571d411c93eec536f59afd4f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/779e918df3ac5f65fdc26531434d223b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a36df2ed0878253e988e264464bbb0fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/1c2d9fc08fd9b51e023612e5adca3a42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8786cd8c0a79237b055277e9d2922ca4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7c505b872a5417ec2f963918b4352fbf/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/13ef9f55271a9503e788681d1604b723/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8548b5599fa1a3913941db1de00d3865/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/f8b8c7cb2551f498c0d66e268c71dfec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3b4fe07abe68e1738bb72e727b301772/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/182ae8cdd42efff9180190139594effd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/028ba050765027ae49136a30f0feb943/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7fd0a284805c28a18e40642461d5da78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b2b1a8be2362760a5943f5a16da5252a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/4688470ab8a223d51dc2086203ecd2e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e22ae15b0f85f9131cb49c62bcf429b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/25d92cb84df84f54c274b952039ef4b9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bf25a413dbfe81ddf08c5a796478ef6c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bf25a413dbfe81ddf08c5a796478ef6c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7166cff7c27dac8f433ff22f4ee1b08/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7166cff7c27dac8f433ff22f4ee1b08/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7c505b872a5417ec2f963918b4352fbf/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7c505b872a5417ec2f963918b4352fbf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.gobarber.MainActivity
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bf25a413dbfe81ddf08c5a796478ef6c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bf25a413dbfe81ddf08c5a796478ef6c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bfa1555447bdc3a8810614cd4c2f54a8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/bfa1555447bdc3a8810614cd4c2f54a8/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e9973c77848dec67c9c491517ff2d2dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e9973c77848dec67c9c491517ff2d2dc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/fee61b9b45367df121fb23bf7e560c59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/fee61b9b45367df121fb23bf7e560c59/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7e1ba1d96a3165d8775769c469539b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7e1ba1d96a3165d8775769c469539b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/274d7fc04735ec6ea2168ef9f27f26f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/274d7fc04735ec6ea2168ef9f27f26f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/99c1379dac05d2ade24d52b3989dc08b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/99c1379dac05d2ade24d52b3989dc08b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/6f1bfe04c69d8e773327d1436fa16553/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/6f1bfe04c69d8e773327d1436fa16553/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/76fea52afb284ac652443259969b720a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/76fea52afb284ac652443259969b720a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/26dc60ebf4a4a550bf6a6c697f59215e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/26dc60ebf4a4a550bf6a6c697f59215e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7166cff7c27dac8f433ff22f4ee1b08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b7166cff7c27dac8f433ff22f4ee1b08/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/764e1cce643f3011ecff67f97b23fefa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/764e1cce643f3011ecff67f97b23fefa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3f744db060150993a68cb01eea62ea85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3f744db060150993a68cb01eea62ea85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/334e7b8195a27e3b5cb93f3d218b28d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/334e7b8195a27e3b5cb93f3d218b28d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/dfd62f6b38594ad010195cd8929a5a13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/dfd62f6b38594ad010195cd8929a5a13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/c8329c5d3acd86249fc23734c955c7ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/c8329c5d3acd86249fc23734c955c7ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a9d0b2d7cd3c2cdf96a0f0257048b078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a9d0b2d7cd3c2cdf96a0f0257048b078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/58ddd353ab968381623314aaef2d1acf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/58ddd353ab968381623314aaef2d1acf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b87491fdcf4ec87ddb03f5d90a0c0e81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b87491fdcf4ec87ddb03f5d90a0c0e81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7d6ae83b731086ffcfaa2acafd073480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7d6ae83b731086ffcfaa2acafd073480/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/61a52a571d411c93eec536f59afd4f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/61a52a571d411c93eec536f59afd4f4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/779e918df3ac5f65fdc26531434d223b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/779e918df3ac5f65fdc26531434d223b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a36df2ed0878253e988e264464bbb0fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/a36df2ed0878253e988e264464bbb0fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/1c2d9fc08fd9b51e023612e5adca3a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/1c2d9fc08fd9b51e023612e5adca3a42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8786cd8c0a79237b055277e9d2922ca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8786cd8c0a79237b055277e9d2922ca4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/48786396a69e944bc73b46d984c50180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7c505b872a5417ec2f963918b4352fbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7c505b872a5417ec2f963918b4352fbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/13ef9f55271a9503e788681d1604b723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/13ef9f55271a9503e788681d1604b723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8548b5599fa1a3913941db1de00d3865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/8548b5599fa1a3913941db1de00d3865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/f8b8c7cb2551f498c0d66e268c71dfec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/f8b8c7cb2551f498c0d66e268c71dfec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3b4fe07abe68e1738bb72e727b301772/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/3b4fe07abe68e1738bb72e727b301772/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/182ae8cdd42efff9180190139594effd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/182ae8cdd42efff9180190139594effd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/028ba050765027ae49136a30f0feb943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/028ba050765027ae49136a30f0feb943/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7fd0a284805c28a18e40642461d5da78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/7fd0a284805c28a18e40642461d5da78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b2b1a8be2362760a5943f5a16da5252a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/b2b1a8be2362760a5943f5a16da5252a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/4688470ab8a223d51dc2086203ecd2e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/4688470ab8a223d51dc2086203ecd2e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e22ae15b0f85f9131cb49c62bcf429b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/e22ae15b0f85f9131cb49c62bcf429b1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/25d92cb84df84f54c274b952039ef4b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gregorispielmann/.gradle/caches/transforms-2/files-2.1/25d92cb84df84f54c274b952039ef4b9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/gregorispielmann/Desktop/GoStack/gobarber/gobarber/android/app/src/debug/AndroidManifest.xml:5:22-75
