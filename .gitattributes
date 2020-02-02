@@ -1,1 +1,2 @@
-*.java linguist-detectable=false
+*.js linguist-language=javascript
+*.jsx linguist-language=javascript
