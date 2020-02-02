@@ -131,6 +131,8 @@ To run react application
 
 <img src="screenshots/ios.gif"/>
 
+<div style="display: flex;">
+
 <img src="screenshots/screenshotios0.png" width="20%"/>
 <img src="screenshots/screenshotios1.png" width="20%"/>
 <img src="screenshots/screenshotios2.png" width="20%"/>
