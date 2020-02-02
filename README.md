@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> This app is a full gym manager called Gobarber.
+<p align="center"> This app is a full barber manager called Gobarber.
 <br>
 In this challenge was built some basic funcionalities to the barber manager and clients.  The concept was a web app to barbers control schedules made by clients. After we made a Mobile App (iOS Only) for the clients do schedules at the barbers. 
     <br> 
@@ -31,7 +31,7 @@ In this challenge was built some basic funcionalities to the barber manager and 
 
 ## 🧐 About <a name = "about"></a>
 
-This project was made to be a full stack application including front-end, back-end and mobile and will be used to the [Rocketseat](https://github.com/rocketseat) Gostack 9 certification.
+This project was made to be a full stack application including front-end, back-end and mobile.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -51,7 +51,7 @@ A step by step series of examples that tell you how to get a development env run
 ### Cloning Repo
 
 ```
-$ git clone https://github.com/gregorispielmann/gympoint-gostack.git
+$ git clone https://github.com/gregorispielmann/gobarber.git
 ```
 
 ### Containers
@@ -106,6 +106,15 @@ This will start the redis task queue
 
 ### Frontend (Web)
 
+## Demo
+
+<img src="screenshots/web.gif"/>
+<img src="screenshots/screenshot1.png"/>
+<img src="screenshots/screenshot2.png"/>
+<img src="screenshots/screenshot3.png"/>
+
+## How to run?
+
 After run backend.
 
 ```
@@ -117,6 +126,17 @@ To run react application
 ```
 
 ### Mobile (:apple: iOS Only)
+
+## Demo
+
+<img src="screenshots/ios.gif"/>
+<img src="screenshots/screenshotios0.png"/>
+<img src="screenshots/screenshotios1.png"/>
+<img src="screenshots/screenshotios2.png"/>
+<img src="screenshots/screenshotios3.png"/>
+<img src="screenshots/screenshotios4.png"/>
+
+## How to run?
 
 After run backend, inside the mobile folder run commands below.
 
@@ -169,3 +189,5 @@ In HelpOrders Page you need to use "Pull To Refresh" to see if there is any upda
 
 - Android mobile app
 - Aditional features to web and mobile
+
+## Made with ☕️ and ❤️ by Gregori Spielmann
