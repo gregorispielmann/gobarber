@@ -131,17 +131,11 @@ To run react application
 
 <img src="screenshots/ios.gif"/>
 
-<div style="width: 100%">
-<div style="width: 25%">
-<img src="screenshots/screenshotios0.png"/>
-</div><div style="width: 25%">
-<img src="screenshots/screenshotios1.png"/>
-</div><div style="width: 25%">
-<img src="screenshots/screenshotios2.png"/>
-</div><div style="width: 25%">
-<img src="screenshots/screenshotios3.png"/>
-</div><div style="width: 25%">
-<img src="screenshots/screenshotios4.png"/>
+<img src="screenshots/screenshotios0.png" width="20%"/>
+<img src="screenshots/screenshotios1.png" width="20%"/>
+<img src="screenshots/screenshotios2.png" width="20%"/>
+<img src="screenshots/screenshotios3.png" width="20%"/>
+<img src="screenshots/screenshotios4.png" width="20%"/>
 </div>
 
 ### How to run?
