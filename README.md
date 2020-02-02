@@ -169,8 +169,7 @@ Password: demo123
 
 ### Mobile
 
-You will only need an ID from a student with an active registration.
-In HelpOrders Page you need to use "Pull To Refresh" to see if there is any update in your help orders.
+You will only need an E-mail and a Password from a client that is not a provider.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
