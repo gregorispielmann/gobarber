@@ -163,8 +163,8 @@ To run react application
 Running the app you will signin with login info below
 
 ```
-Login: admin@gorbarber.com
-Password: 123456
+Login: demo@prestador.com
+Password: demo123
 ```
 
 ### Mobile
