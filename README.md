@@ -106,14 +106,14 @@ This will start the redis task queue
 
 ### Frontend (Web)
 
-## Demo
+### Demo
 
 <img src="screenshots/web.gif"/>
 <img src="screenshots/screenshot1.png"/>
 <img src="screenshots/screenshot2.png"/>
 <img src="screenshots/screenshot3.png"/>
 
-## How to run?
+### How to run?
 
 After run backend.
 
@@ -127,16 +127,24 @@ To run react application
 
 ### Mobile (:apple: iOS Only)
 
-## Demo
+### Demo
 
 <img src="screenshots/ios.gif"/>
-<img src="screenshots/screenshotios0.png"/>
-<img src="screenshots/screenshotios1.png"/>
-<img src="screenshots/screenshotios2.png"/>
-<img src="screenshots/screenshotios3.png"/>
-<img src="screenshots/screenshotios4.png"/>
 
-## How to run?
+<div style="width: 100%">
+<div style="width: 25%">
+<img src="screenshots/screenshotios0.png"/>
+</div><div style="width: 25%">
+<img src="screenshots/screenshotios1.png"/>
+</div><div style="width: 25%">
+<img src="screenshots/screenshotios2.png"/>
+</div><div style="width: 25%">
+<img src="screenshots/screenshotios3.png"/>
+</div><div style="width: 25%">
+<img src="screenshots/screenshotios4.png"/>
+</div>
+
+### How to run?
 
 After run backend, inside the mobile folder run commands below.
 
