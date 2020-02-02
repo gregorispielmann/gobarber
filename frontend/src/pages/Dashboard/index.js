@@ -53,8 +53,6 @@ export default function Dashboard() {
         };
       });
 
-      console.log(data);
-
       setSchedule(data);
     }
 

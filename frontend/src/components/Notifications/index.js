@@ -67,25 +67,32 @@ export default function Notifications() {
 
       <NotificationList visible={visible}>
         <Scroll>
-          {notifications.map(notification => (
-            <React.Fragment key={notification._id}>
-              <Notification key={notification._id} unread={!notification.read}>
-                <p>
-                  {notification.content}
-                  <time>{notification.timeDistance}</time>
-                </p>
-                {!notification.read && (
-                  <button
-                    type="button"
-                    onClick={() => handleMarkAsRead(notification._id)}
-                  >
-                    <MdDone size={20} color="#ff892e"></MdDone>
-                  </button>
-                )}
-              </Notification>
-              <Divider></Divider>
-            </React.Fragment>
-          ))}
+          {notifications.length > 0 ? (
+            notifications.map(notification => (
+              <React.Fragment key={notification._id}>
+                <Notification
+                  key={notification._id}
+                  unread={!notification.read}
+                >
+                  <p>
+                    {notification.content}
+                    <time>{notification.timeDistance}</time>
+                  </p>
+                  {!notification.read && (
+                    <button
+                      type="button"
+                      onClick={() => handleMarkAsRead(notification._id)}
+                    >
+                      <MdDone size={20} color="#ff892e"></MdDone>
+                    </button>
+                  )}
+                </Notification>
+                <Divider></Divider>
+              </React.Fragment>
+            ))
+          ) : (
+            <Notification>Nenhuma notificação</Notification>
+          )}
         </Scroll>
       </NotificationList>
     </Container>
